@@ -16,7 +16,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ##Tool
 
 1.HTML
-2.Css
+2.CSS3
 3.Flexbox
 
 
